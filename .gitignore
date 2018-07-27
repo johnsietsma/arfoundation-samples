@@ -1,3 +1,9 @@
+/// DONT CHECK IN ///
+/Assets/Debug/*
+/// END DONT CHECK IN ///
+
+
+
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -7,6 +13,9 @@ Assets/AssetStoreTools*
 
 # Visual Studio 2015 cache directory
 /.vs/
+
+# Visual Studio Code files
+/.vscode/
 
 # Ignore manually added packages
 com.*
