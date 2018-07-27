@@ -8,6 +8,9 @@ Assets/AssetStoreTools*
 # Visual Studio 2015 cache directory
 /.vs/
 
+# Visual Studio Code files
+/.vscode/
+
 # Ignore manually added packages
 com.*
 
